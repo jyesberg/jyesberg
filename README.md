@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on the ACT Website Design System
 - 😄 I'm fluent in HTML, CSS/SCSS and JavaScript/TypeScript
-- 🔧 I'm currently working on learning Lua and [The Odin Project](https://www.theodinproject.com/)
+- 🔧 I'm currently working on learning Lua and making my way through [The Odin Project](https://www.theodinproject.com/)
 
 # 🔧 Technologies & Tools
 
