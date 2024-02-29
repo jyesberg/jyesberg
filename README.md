@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on the ACT Website Design System
-- 😄 I'm fluent in Squiz Matrix, HTML, CSS/SCSS and JavaScript/TypeScript
+- 😄 I'm fluent in Squiz Matrix, HTML, CSS/SCSS and JavaScript
 - 🔧 I'm currently working on learning Drupal, Lua and making my way through [The Odin Project](https://www.theodinproject.com/)
 
 # 🔧 Technologies & Tools
